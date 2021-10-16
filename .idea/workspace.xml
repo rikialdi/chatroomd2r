@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5b78a862-07ea-4b79-b05f-acca8ff92070" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/config/HandShakeInterceptor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/config/HandShakeInterceptor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/controller/ApiController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/controller/ApiController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/controller/AuthenticationController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/controller/AuthenticationController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/controller/WsController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/controller/WsController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/controller/WsFileController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/controller/WsFileController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/dto/AuthUserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/dto/AuthUserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/dto/GroupDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/dto/GroupDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/dto/GroupMemberDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/dto/GroupMemberDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/dto/InputTransportDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/dto/InputTransportDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/dto/MessageDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/dto/MessageDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/dto/NotificationDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/dto/NotificationDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/dto/UserDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/dto/UserDTO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/entity/FileEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/entity/FileEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/entity/GroupEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/entity/GroupEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/entity/GroupRoleKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/entity/GroupRoleKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/entity/GroupUser.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/entity/GroupUser.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/entity/MessageEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/entity/MessageEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/entity/MessageUserEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/entity/MessageUserEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/entity/MessageUserKey.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/entity/MessageUserKey.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/entity/UserEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/entity/UserEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/mapper/GroupMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/mapper/GroupMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/repository/FileRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/repository/FileRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/repository/GroupRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/repository/GroupRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/repository/GroupUserJoinRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/repository/GroupUserJoinRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/repository/MessageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/repository/MessageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/repository/UserRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/repository/UserRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/repository/UserSeenMessageRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/repository/UserSeenMessageRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/service/FileService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/service/FileService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/service/GroupService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/service/GroupService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/service/GroupUserJoinService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/service/GroupUserJoinService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/service/MessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/service/MessageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/service/StorageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/service/StorageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/service/UserSeenMessageService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/service/UserSeenMessageService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/service/UserService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/service/UserService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/utils/DbInit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/utils/DbInit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/mercure/utils/StaticVariable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/mercure/utils/StaticVariable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application-dev.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application-dev.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/changelog-master.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/changelog/createFileBlobTable.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/changelog/createGroupTable.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/changelog/createJoinTableGroupUser.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/changelog/createJoinTableMessageUserSeen.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/changelog/createJoinTableUserGroup.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/changelog/createMessageWsTable.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/db/changelog/createUserTable.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/liquibase.properties" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="C:\Program Files\JetBrains\IntelliJ IDEA 2020.2.3\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1zLD0ZlbhknYUsmrHaeTq97rD6H" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.mercure.d2r.service" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\rahmat ecomerce\test\mes1\react-spring-messenger-project\backend\src\main\resources" />
+      <recent name="D:\rahmat ecomerce\test\mes1\react-spring-messenger-project\backend\src\main\java\com\mercure\d2r" />
+      <recent name="D:\rahmat ecomerce\test\mes1\react-spring-messenger-project\backend\src\main\java\com\mercure\d2r\service" />
+      <recent name="D:\rahmat ecomerce\test\mes1\react-spring-messenger-project\backend\src\main\java\com\mercure\d2r\repository" />
+      <recent name="D:\rahmat ecomerce\test\mes1\react-spring-messenger-project\backend\src\main\java\com\mercure\d2r\confiq" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.WsNativeApplication">
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="db-1 in messenger" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="messenger" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="db-1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="db-1" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WsNativeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="messenger" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.mercure.WsNativeApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.db-1 in messenger" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5b78a862-07ea-4b79-b05f-acca8ff92070" name="Default Changelist" comment="" />
+      <created>1633918256093</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1633918256093</updated>
+      <workItem from="1633918257339" duration="2634000" />
+      <workItem from="1633929516721" duration="2305000" />
+      <workItem from="1633933431587" duration="17000" />
+      <workItem from="1634113316816" duration="1150000" />
+      <workItem from="1634131084099" duration="6360000" />
+      <workItem from="1634228176497" duration="11023000" />
+      <workItem from="1634277635466" duration="648000" />
+      <workItem from="1634295678157" duration="10210000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="582" y="255" key="#Assign_Data_Sources" timestamp="1634353931591">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="582" y="255" key="#Assign_Data_Sources/0.0.1366.728@0.0.1366.728" timestamp="1634353931591" />
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser" timestamp="1634263683642">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="488" y="48" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1634263683642" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1634259744532">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1634259744532" />
+    <state width="1323" height="228" key="GridCell.Tab.0.bottom" timestamp="1634354438592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="228" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1634354438592" />
+    <state width="1323" height="228" key="GridCell.Tab.0.center" timestamp="1634354438592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="228" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1634354438592" />
+    <state width="1323" height="228" key="GridCell.Tab.0.left" timestamp="1634354438592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="228" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1634354438592" />
+    <state width="1323" height="228" key="GridCell.Tab.0.right" timestamp="1634354438592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="228" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1634354438592" />
+    <state width="1323" height="228" key="GridCell.Tab.1.bottom" timestamp="1634354438608">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="228" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1634354438608" />
+    <state width="1323" height="228" key="GridCell.Tab.1.center" timestamp="1634354438608">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="228" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1634354438608" />
+    <state width="1323" height="228" key="GridCell.Tab.1.left" timestamp="1634354438592">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="228" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1634354438592" />
+    <state width="1323" height="228" key="GridCell.Tab.1.right" timestamp="1634354438608">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="228" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1634354438608" />
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog" timestamp="1634259976844">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="213" y="19" key="Maven.ArtifactSearchDialog/0.0.1366.728@0.0.1366.728" timestamp="1634259976844" />
+    <state x="390" y="68" width="683" height="650" key="find.popup" timestamp="1634354600471">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="390" y="68" width="683" height="650" key="find.popup/0.0.1366.728@0.0.1366.728" timestamp="1634354600471" />
+    <state x="339" y="162" key="run.anything.popup" timestamp="1634263303482">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="162" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1634263303482" />
+  </component>
+</project>
